@@ -13,11 +13,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shivamjswlll/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/shivamjswlll/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/shivamjswlll/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shivamjswlll/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/shivamjswlll/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/shivamjswlll/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Monotonic Stack
 |  |
@@ -27,9 +29,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shivamjswlll/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/shivamjswlll/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/shivamjswlll/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shivamjswlll/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/shivamjswlll/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+## Hash Table
+|  |
+| ------- |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/shivamjswlll/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+## Two Pointers
+|  |
+| ------- |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/shivamjswlll/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/shivamjswlll/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 <!---LeetCode Topics End-->
