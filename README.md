@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0198-house-robber](https://github.com/shivamjswlll/Leetcode/tree/master/0198-house-robber) |
 | [0403-frog-jump](https://github.com/shivamjswlll/Leetcode/tree/master/0403-frog-jump) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/shivamjswlll/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Stack
@@ -93,5 +94,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0198-house-robber](https://github.com/shivamjswlll/Leetcode/tree/master/0198-house-robber) |
 | [0403-frog-jump](https://github.com/shivamjswlll/Leetcode/tree/master/0403-frog-jump) |
 <!---LeetCode Topics End-->
