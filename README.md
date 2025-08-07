@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/shivamjswlll/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0198-house-robber](https://github.com/shivamjswlll/Leetcode/tree/master/0198-house-robber) |
 | [0403-frog-jump](https://github.com/shivamjswlll/Leetcode/tree/master/0403-frog-jump) |
+| [0967-minimum-falling-path-sum](https://github.com/shivamjswlll/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/shivamjswlll/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Stack
 |  |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/shivamjswlll/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0198-house-robber](https://github.com/shivamjswlll/Leetcode/tree/master/0198-house-robber) |
 | [0403-frog-jump](https://github.com/shivamjswlll/Leetcode/tree/master/0403-frog-jump) |
+| [0967-minimum-falling-path-sum](https://github.com/shivamjswlll/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 ## Math
 |  |
 | ------- |
@@ -114,4 +116,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/shivamjswlll/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/shivamjswlll/Leetcode/tree/master/0064-minimum-path-sum) |
+| [0967-minimum-falling-path-sum](https://github.com/shivamjswlll/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 <!---LeetCode Topics End-->
