@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0403-frog-jump](https://github.com/shivamjswlll/Leetcode/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/shivamjswlll/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/shivamjswlll/Leetcode/tree/master/0455-assign-cookies) |
+| [0494-target-sum](https://github.com/shivamjswlll/Leetcode/tree/master/0494-target-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/shivamjswlll/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/shivamjswlll/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Stack
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/shivamjswlll/Leetcode/tree/master/0322-coin-change) |
 | [0403-frog-jump](https://github.com/shivamjswlll/Leetcode/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/shivamjswlll/Leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/shivamjswlll/Leetcode/tree/master/0494-target-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/shivamjswlll/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 ## Math
 |  |
@@ -145,4 +147,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/shivamjswlll/Leetcode/tree/master/0455-assign-cookies) |
+## Backtracking
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/shivamjswlll/Leetcode/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
