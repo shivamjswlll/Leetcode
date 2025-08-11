@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/shivamjswlll/Leetcode/tree/master/0494-target-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/shivamjswlll/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/shivamjswlll/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [2529-range-product-queries-of-powers](https://github.com/shivamjswlll/Leetcode/tree/master/2529-range-product-queries-of-powers) |
 ## Stack
 |  |
 | ------- |
@@ -151,4 +152,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/shivamjswlll/Leetcode/tree/master/0494-target-sum) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2529-range-product-queries-of-powers](https://github.com/shivamjswlll/Leetcode/tree/master/2529-range-product-queries-of-powers) |
+## Prefix Sum
+|  |
+| ------- |
+| [2529-range-product-queries-of-powers](https://github.com/shivamjswlll/Leetcode/tree/master/2529-range-product-queries-of-powers) |
 <!---LeetCode Topics End-->
