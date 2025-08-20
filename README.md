@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/shivamjswlll/Leetcode/tree/master/0455-assign-cookies) |
 | [0494-target-sum](https://github.com/shivamjswlll/Leetcode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/shivamjswlll/Leetcode/tree/master/0518-coin-change-ii) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/shivamjswlll/Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0967-minimum-falling-path-sum](https://github.com/shivamjswlll/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/shivamjswlll/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1129-longest-string-chain](https://github.com/shivamjswlll/Leetcode/tree/master/1129-longest-string-chain) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/shivamjswlll/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/shivamjswlll/Leetcode/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/shivamjswlll/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/shivamjswlll/Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0967-minimum-falling-path-sum](https://github.com/shivamjswlll/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1129-longest-string-chain](https://github.com/shivamjswlll/Leetcode/tree/master/1129-longest-string-chain) |
 | [1250-longest-common-subsequence](https://github.com/shivamjswlll/Leetcode/tree/master/1250-longest-common-subsequence) |
@@ -204,4 +206,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/shivamjswlll/Leetcode/tree/master/0744-network-delay-time) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/shivamjswlll/Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Segment Tree
+|  |
+| ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/shivamjswlll/Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
