@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/shivamjswlll/Leetcode/tree/master/0518-coin-change-ii) |
 | [0967-minimum-falling-path-sum](https://github.com/shivamjswlll/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/shivamjswlll/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1129-longest-string-chain](https://github.com/shivamjswlll/Leetcode/tree/master/1129-longest-string-chain) |
 | [2358-number-of-ways-to-split-array](https://github.com/shivamjswlll/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/shivamjswlll/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2529-range-product-queries-of-powers](https://github.com/shivamjswlll/Leetcode/tree/master/2529-range-product-queries-of-powers) |
@@ -67,12 +68,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shivamjswlll/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0900-reordered-power-of-2](https://github.com/shivamjswlll/Leetcode/tree/master/0900-reordered-power-of-2) |
+| [1129-longest-string-chain](https://github.com/shivamjswlll/Leetcode/tree/master/1129-longest-string-chain) |
 ## Two Pointers
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/shivamjswlll/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0455-assign-cookies](https://github.com/shivamjswlll/Leetcode/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shivamjswlll/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1129-longest-string-chain](https://github.com/shivamjswlll/Leetcode/tree/master/1129-longest-string-chain) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -108,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/shivamjswlll/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/shivamjswlll/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/shivamjswlll/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
+| [1129-longest-string-chain](https://github.com/shivamjswlll/Leetcode/tree/master/1129-longest-string-chain) |
 | [1250-longest-common-subsequence](https://github.com/shivamjswlll/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/shivamjswlll/Leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/shivamjswlll/Leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
@@ -141,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/shivamjswlll/Leetcode/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/shivamjswlll/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0967-minimum-falling-path-sum](https://github.com/shivamjswlll/Leetcode/tree/master/0967-minimum-falling-path-sum) |
+| [1129-longest-string-chain](https://github.com/shivamjswlll/Leetcode/tree/master/1129-longest-string-chain) |
 | [1250-longest-common-subsequence](https://github.com/shivamjswlll/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/shivamjswlll/Leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Math
@@ -164,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0455-assign-cookies](https://github.com/shivamjswlll/Leetcode/tree/master/0455-assign-cookies) |
 | [0900-reordered-power-of-2](https://github.com/shivamjswlll/Leetcode/tree/master/0900-reordered-power-of-2) |
+| [1129-longest-string-chain](https://github.com/shivamjswlll/Leetcode/tree/master/1129-longest-string-chain) |
 ## Counting
 |  |
 | ------- |
