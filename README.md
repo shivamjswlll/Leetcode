@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2358-number-of-ways-to-split-array](https://github.com/shivamjswlll/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/shivamjswlll/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2529-range-product-queries-of-powers](https://github.com/shivamjswlll/Leetcode/tree/master/2529-range-product-queries-of-powers) |
+| [3374-count-alternating-subarrays](https://github.com/shivamjswlll/Leetcode/tree/master/3374-count-alternating-subarrays) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/shivamjswlll/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 ## Stack
 |  |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/shivamjswlll/Leetcode/tree/master/0069-sqrtx) |
 | [0900-reordered-power-of-2](https://github.com/shivamjswlll/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/shivamjswlll/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
+| [3374-count-alternating-subarrays](https://github.com/shivamjswlll/Leetcode/tree/master/3374-count-alternating-subarrays) |
 ## Combinatorics
 |  |
 | ------- |
