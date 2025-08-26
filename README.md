@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/shivamjswlll/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [1129-longest-string-chain](https://github.com/shivamjswlll/Leetcode/tree/master/1129-longest-string-chain) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/shivamjswlll/Leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [3210-count-beautiful-substrings-i](https://github.com/shivamjswlll/Leetcode/tree/master/3210-count-beautiful-substrings-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/shivamjswlll/Leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/shivamjswlll/Leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/shivamjswlll/Leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [3210-count-beautiful-substrings-i](https://github.com/shivamjswlll/Leetcode/tree/master/3210-count-beautiful-substrings-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/shivamjswlll/Leetcode/tree/master/0069-sqrtx) |
 | [0900-reordered-power-of-2](https://github.com/shivamjswlll/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/shivamjswlll/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
+| [3210-count-beautiful-substrings-i](https://github.com/shivamjswlll/Leetcode/tree/master/3210-count-beautiful-substrings-i) |
 | [3374-count-alternating-subarrays](https://github.com/shivamjswlll/Leetcode/tree/master/3374-count-alternating-subarrays) |
 ## Combinatorics
 |  |
@@ -201,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0900-reordered-power-of-2](https://github.com/shivamjswlll/Leetcode/tree/master/0900-reordered-power-of-2) |
+| [3210-count-beautiful-substrings-i](https://github.com/shivamjswlll/Leetcode/tree/master/3210-count-beautiful-substrings-i) |
 ## Greedy
 |  |
 | ------- |
@@ -220,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2358-number-of-ways-to-split-array](https://github.com/shivamjswlll/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2529-range-product-queries-of-powers](https://github.com/shivamjswlll/Leetcode/tree/master/2529-range-product-queries-of-powers) |
+| [3210-count-beautiful-substrings-i](https://github.com/shivamjswlll/Leetcode/tree/master/3210-count-beautiful-substrings-i) |
 ## Recursion
 |  |
 | ------- |
@@ -244,4 +249,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0498-diagonal-traverse](https://github.com/shivamjswlll/Leetcode/tree/master/0498-diagonal-traverse) |
+## Number Theory
+|  |
+| ------- |
+| [3210-count-beautiful-substrings-i](https://github.com/shivamjswlll/Leetcode/tree/master/3210-count-beautiful-substrings-i) |
 <!---LeetCode Topics End-->
