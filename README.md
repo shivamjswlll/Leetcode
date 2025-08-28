@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/shivamjswlll/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1129-longest-string-chain](https://github.com/shivamjswlll/Leetcode/tree/master/1129-longest-string-chain) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/shivamjswlll/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [2342-minimum-average-difference](https://github.com/shivamjswlll/Leetcode/tree/master/2342-minimum-average-difference) |
 | [2358-number-of-ways-to-split-array](https://github.com/shivamjswlll/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/shivamjswlll/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2529-range-product-queries-of-powers](https://github.com/shivamjswlll/Leetcode/tree/master/2529-range-product-queries-of-powers) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/shivamjswlll/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [2342-minimum-average-difference](https://github.com/shivamjswlll/Leetcode/tree/master/2342-minimum-average-difference) |
 | [2358-number-of-ways-to-split-array](https://github.com/shivamjswlll/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2529-range-product-queries-of-powers](https://github.com/shivamjswlll/Leetcode/tree/master/2529-range-product-queries-of-powers) |
 | [3210-count-beautiful-substrings-i](https://github.com/shivamjswlll/Leetcode/tree/master/3210-count-beautiful-substrings-i) |
