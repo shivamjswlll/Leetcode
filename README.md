@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/shivamjswlll/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [1129-longest-string-chain](https://github.com/shivamjswlll/Leetcode/tree/master/1129-longest-string-chain) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/shivamjswlll/Leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [2978-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/shivamjswlll/Leetcode/tree/master/2978-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3210-count-beautiful-substrings-i](https://github.com/shivamjswlll/Leetcode/tree/master/3210-count-beautiful-substrings-i) |
 ## Two Pointers
 |  |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/shivamjswlll/Leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2325-number-of-ways-to-select-buildings](https://github.com/shivamjswlll/Leetcode/tree/master/2325-number-of-ways-to-select-buildings) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/shivamjswlll/Leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [2978-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/shivamjswlll/Leetcode/tree/master/2978-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3210-count-beautiful-substrings-i](https://github.com/shivamjswlll/Leetcode/tree/master/3210-count-beautiful-substrings-i) |
 ## Heap (Priority Queue)
 |  |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/shivamjswlll/Leetcode/tree/master/0455-assign-cookies) |
 | [0900-reordered-power-of-2](https://github.com/shivamjswlll/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [1129-longest-string-chain](https://github.com/shivamjswlll/Leetcode/tree/master/1129-longest-string-chain) |
+| [2978-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/shivamjswlll/Leetcode/tree/master/2978-check-if-strings-can-be-made-equal-with-operations-ii) |
 ## Counting
 |  |
 | ------- |
