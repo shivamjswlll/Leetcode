@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3210-count-beautiful-substrings-i](https://github.com/shivamjswlll/Leetcode/tree/master/3210-count-beautiful-substrings-i) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/shivamjswlll/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3374-count-alternating-subarrays](https://github.com/shivamjswlll/Leetcode/tree/master/3374-count-alternating-subarrays) |
+| [3830-find-closest-person](https://github.com/shivamjswlll/Leetcode/tree/master/3830-find-closest-person) |
 ## Combinatorics
 |  |
 | ------- |
