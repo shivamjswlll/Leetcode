@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/shivamjswlll/Leetcode/tree/master/0204-count-primes) |
 | [0804-rotated-digits](https://github.com/shivamjswlll/Leetcode/tree/master/0804-rotated-digits) |
 | [0900-reordered-power-of-2](https://github.com/shivamjswlll/Leetcode/tree/master/0900-reordered-power-of-2) |
+| [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/shivamjswlll/Leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/shivamjswlll/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2873-prime-pairs-with-target-sum](https://github.com/shivamjswlll/Leetcode/tree/master/2873-prime-pairs-with-target-sum) |
 | [3210-count-beautiful-substrings-i](https://github.com/shivamjswlll/Leetcode/tree/master/3210-count-beautiful-substrings-i) |
