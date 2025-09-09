@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/shivamjswlll/Leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2325-number-of-ways-to-select-buildings](https://github.com/shivamjswlll/Leetcode/tree/master/2325-number-of-ways-to-select-buildings) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/shivamjswlll/Leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [2632-apply-bitwise-operations-to-make-strings-equal](https://github.com/shivamjswlll/Leetcode/tree/master/2632-apply-bitwise-operations-to-make-strings-equal) |
 | [2978-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/shivamjswlll/Leetcode/tree/master/2978-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3210-count-beautiful-substrings-i](https://github.com/shivamjswlll/Leetcode/tree/master/3210-count-beautiful-substrings-i) |
 ## Heap (Priority Queue)
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2529-range-product-queries-of-powers](https://github.com/shivamjswlll/Leetcode/tree/master/2529-range-product-queries-of-powers) |
+| [2632-apply-bitwise-operations-to-make-strings-equal](https://github.com/shivamjswlll/Leetcode/tree/master/2632-apply-bitwise-operations-to-make-strings-equal) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/shivamjswlll/Leetcode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 ## Prefix Sum
 |  |
