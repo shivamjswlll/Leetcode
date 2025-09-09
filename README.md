@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/shivamjswlll/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2342-minimum-average-difference](https://github.com/shivamjswlll/Leetcode/tree/master/2342-minimum-average-difference) |
 | [2358-number-of-ways-to-split-array](https://github.com/shivamjswlll/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
+| [2422-query-kth-smallest-trimmed-number](https://github.com/shivamjswlll/Leetcode/tree/master/2422-query-kth-smallest-trimmed-number) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/shivamjswlll/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2529-range-product-queries-of-powers](https://github.com/shivamjswlll/Leetcode/tree/master/2529-range-product-queries-of-powers) |
 | [2873-prime-pairs-with-target-sum](https://github.com/shivamjswlll/Leetcode/tree/master/2873-prime-pairs-with-target-sum) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/shivamjswlll/Leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2325-number-of-ways-to-select-buildings](https://github.com/shivamjswlll/Leetcode/tree/master/2325-number-of-ways-to-select-buildings) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/shivamjswlll/Leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [2422-query-kth-smallest-trimmed-number](https://github.com/shivamjswlll/Leetcode/tree/master/2422-query-kth-smallest-trimmed-number) |
 | [2632-apply-bitwise-operations-to-make-strings-equal](https://github.com/shivamjswlll/Leetcode/tree/master/2632-apply-bitwise-operations-to-make-strings-equal) |
 | [2978-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/shivamjswlll/Leetcode/tree/master/2978-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3210-count-beautiful-substrings-i](https://github.com/shivamjswlll/Leetcode/tree/master/3210-count-beautiful-substrings-i) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0744-network-delay-time](https://github.com/shivamjswlll/Leetcode/tree/master/0744-network-delay-time) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/shivamjswlll/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [2422-query-kth-smallest-trimmed-number](https://github.com/shivamjswlll/Leetcode/tree/master/2422-query-kth-smallest-trimmed-number) |
 ## Data Stream
 |  |
 | ------- |
@@ -227,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/shivamjswlll/Leetcode/tree/master/0455-assign-cookies) |
 | [0900-reordered-power-of-2](https://github.com/shivamjswlll/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [1129-longest-string-chain](https://github.com/shivamjswlll/Leetcode/tree/master/1129-longest-string-chain) |
+| [2422-query-kth-smallest-trimmed-number](https://github.com/shivamjswlll/Leetcode/tree/master/2422-query-kth-smallest-trimmed-number) |
 | [2978-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/shivamjswlll/Leetcode/tree/master/2978-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/shivamjswlll/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Counting
@@ -309,4 +313,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/shivamjswlll/Leetcode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+## Divide and Conquer
+|  |
+| ------- |
+| [2422-query-kth-smallest-trimmed-number](https://github.com/shivamjswlll/Leetcode/tree/master/2422-query-kth-smallest-trimmed-number) |
+## Radix Sort
+|  |
+| ------- |
+| [2422-query-kth-smallest-trimmed-number](https://github.com/shivamjswlll/Leetcode/tree/master/2422-query-kth-smallest-trimmed-number) |
+## Quickselect
+|  |
+| ------- |
+| [2422-query-kth-smallest-trimmed-number](https://github.com/shivamjswlll/Leetcode/tree/master/2422-query-kth-smallest-trimmed-number) |
 <!---LeetCode Topics End-->
