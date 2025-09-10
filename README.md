@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/shivamjswlll/Leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/shivamjswlll/Leetcode/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/shivamjswlll/Leetcode/tree/master/0204-count-primes) |
+| [0238-product-of-array-except-self](https://github.com/shivamjswlll/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0304-range-sum-query-2d-immutable](https://github.com/shivamjswlll/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0322-coin-change](https://github.com/shivamjswlll/Leetcode/tree/master/0322-coin-change) |
 | [0403-frog-jump](https://github.com/shivamjswlll/Leetcode/tree/master/0403-frog-jump) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/shivamjswlll/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0304-range-sum-query-2d-immutable](https://github.com/shivamjswlll/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [1046-max-consecutive-ones-iii](https://github.com/shivamjswlll/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [2325-number-of-ways-to-select-buildings](https://github.com/shivamjswlll/Leetcode/tree/master/2325-number-of-ways-to-select-buildings) |
