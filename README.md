@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/shivamjswlll/Leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/shivamjswlll/Leetcode/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/shivamjswlll/Leetcode/tree/master/0204-count-primes) |
+| [0304-range-sum-query-2d-immutable](https://github.com/shivamjswlll/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0322-coin-change](https://github.com/shivamjswlll/Leetcode/tree/master/0322-coin-change) |
 | [0403-frog-jump](https://github.com/shivamjswlll/Leetcode/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/shivamjswlll/Leetcode/tree/master/0416-partition-equal-subset-sum) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/shivamjswlll/Leetcode/tree/master/0173-binary-search-tree-iterator) |
+| [0304-range-sum-query-2d-immutable](https://github.com/shivamjswlll/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/shivamjswlll/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Iterator
 |  |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/shivamjswlll/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/shivamjswlll/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/shivamjswlll/Leetcode/tree/master/0079-word-search) |
+| [0304-range-sum-query-2d-immutable](https://github.com/shivamjswlll/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0498-diagonal-traverse](https://github.com/shivamjswlll/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0967-minimum-falling-path-sum](https://github.com/shivamjswlll/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/shivamjswlll/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
@@ -267,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0304-range-sum-query-2d-immutable](https://github.com/shivamjswlll/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [1046-max-consecutive-ones-iii](https://github.com/shivamjswlll/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [2325-number-of-ways-to-select-buildings](https://github.com/shivamjswlll/Leetcode/tree/master/2325-number-of-ways-to-select-buildings) |
 | [2342-minimum-average-difference](https://github.com/shivamjswlll/Leetcode/tree/master/2342-minimum-average-difference) |
