@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/shivamjswlll/Leetcode/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/shivamjswlll/Leetcode/tree/master/0069-sqrtx) |
 | [0204-count-primes](https://github.com/shivamjswlll/Leetcode/tree/master/0204-count-primes) |
+| [0319-bulb-switcher](https://github.com/shivamjswlll/Leetcode/tree/master/0319-bulb-switcher) |
 | [0804-rotated-digits](https://github.com/shivamjswlll/Leetcode/tree/master/0804-rotated-digits) |
 | [0900-reordered-power-of-2](https://github.com/shivamjswlll/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/shivamjswlll/Leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
@@ -328,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Brainteaser
 |  |
 | ------- |
+| [0319-bulb-switcher](https://github.com/shivamjswlll/Leetcode/tree/master/0319-bulb-switcher) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/shivamjswlll/Leetcode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 ## Divide and Conquer
 |  |
