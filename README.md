@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/shivamjswlll/Leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/shivamjswlll/Leetcode/tree/master/0037-sudoku-solver) |
+| [0202-happy-number](https://github.com/shivamjswlll/Leetcode/tree/master/0202-happy-number) |
 | [0229-majority-element-ii](https://github.com/shivamjswlll/Leetcode/tree/master/0229-majority-element-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/shivamjswlll/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shivamjswlll/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/shivamjswlll/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0202-happy-number](https://github.com/shivamjswlll/Leetcode/tree/master/0202-happy-number) |
 | [0455-assign-cookies](https://github.com/shivamjswlll/Leetcode/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shivamjswlll/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1129-longest-string-chain](https://github.com/shivamjswlll/Leetcode/tree/master/1129-longest-string-chain) |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/shivamjswlll/Leetcode/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/shivamjswlll/Leetcode/tree/master/0069-sqrtx) |
+| [0202-happy-number](https://github.com/shivamjswlll/Leetcode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/shivamjswlll/Leetcode/tree/master/0204-count-primes) |
 | [0319-bulb-switcher](https://github.com/shivamjswlll/Leetcode/tree/master/0319-bulb-switcher) |
 | [0804-rotated-digits](https://github.com/shivamjswlll/Leetcode/tree/master/0804-rotated-digits) |
