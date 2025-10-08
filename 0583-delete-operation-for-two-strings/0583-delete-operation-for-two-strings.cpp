@@ -1,21 +1,21 @@
-class Solution {
-    int solve(int i, int j,string &s1,string &s2,vector<vector<int>> &dp){
-        int n1 = s1.size();
-        int n2 = s2.size();
 
-        if(i >= n1) return n2-j;
-        if(j >= n2) return n1-i;
+class Solution {
+    int solve(int i,int j,string &word1,string &word2,vector<vector<int>> &dp){
+        if(i >= word1.size() && j >= word2.size()) return 0;
+
+        if(i >= word1.size()) return word2.size() - (j);
+        if(j >= word2.size()) return word1.size() - (i);
 
         if(dp[i][j] != -1) return dp[i][j];
 
-        if(s1[i] == s2[j]){
-            return dp[i][j] = solve(i+1,j+1,s1,s2,dp);
+        if(word1[i] == word2[j]){
+            return dp[i][j] = solve(i+1,j+1,word1,word2,dp);
         }
 
-        int del = 1 + solve(i+1,j,s1,s2,dp);
-        int insert = 1 + solve(i,j+1,s1,s2,dp);
+        int add = 1 + solve(i,j+1,word1,word2,dp);
+        int del = 1 + solve(i+1,j,word1,word2,dp);
 
-        return dp[i][j] = min(del,insert);
+        return dp[i][j] = min(add,del);
     }
 public:
     int minDistance(string word1, string word2) {
