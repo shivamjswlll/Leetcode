@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2432-number-of-zero-filled-subarrays](https://github.com/shivamjswlll/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2529-range-product-queries-of-powers](https://github.com/shivamjswlll/Leetcode/tree/master/2529-range-product-queries-of-powers) |
 | [2873-prime-pairs-with-target-sum](https://github.com/shivamjswlll/Leetcode/tree/master/2873-prime-pairs-with-target-sum) |
+| [3227-find-missing-and-repeated-values](https://github.com/shivamjswlll/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/shivamjswlll/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3374-count-alternating-subarrays](https://github.com/shivamjswlll/Leetcode/tree/master/3374-count-alternating-subarrays) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/shivamjswlll/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/shivamjswlll/Leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2978-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/shivamjswlll/Leetcode/tree/master/2978-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3210-count-beautiful-substrings-i](https://github.com/shivamjswlll/Leetcode/tree/master/3210-count-beautiful-substrings-i) |
+| [3227-find-missing-and-repeated-values](https://github.com/shivamjswlll/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
 | ------- |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2432-number-of-zero-filled-subarrays](https://github.com/shivamjswlll/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2873-prime-pairs-with-target-sum](https://github.com/shivamjswlll/Leetcode/tree/master/2873-prime-pairs-with-target-sum) |
 | [3210-count-beautiful-substrings-i](https://github.com/shivamjswlll/Leetcode/tree/master/3210-count-beautiful-substrings-i) |
+| [3227-find-missing-and-repeated-values](https://github.com/shivamjswlll/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/shivamjswlll/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3374-count-alternating-subarrays](https://github.com/shivamjswlll/Leetcode/tree/master/3374-count-alternating-subarrays) |
 | [3830-find-closest-person](https://github.com/shivamjswlll/Leetcode/tree/master/3830-find-closest-person) |
@@ -259,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/shivamjswlll/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0498-diagonal-traverse](https://github.com/shivamjswlll/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0967-minimum-falling-path-sum](https://github.com/shivamjswlll/Leetcode/tree/master/0967-minimum-falling-path-sum) |
+| [3227-find-missing-and-repeated-values](https://github.com/shivamjswlll/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/shivamjswlll/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 ## Sorting
 |  |
