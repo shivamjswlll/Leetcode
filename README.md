@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/shivamjswlll/Leetcode/tree/master/0015-3sum) |
 | [0036-valid-sudoku](https://github.com/shivamjswlll/Leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/shivamjswlll/Leetcode/tree/master/0037-sudoku-solver) |
+| [0042-trapping-rain-water](https://github.com/shivamjswlll/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/shivamjswlll/Leetcode/tree/master/0045-jump-game-ii) |
 | [0063-unique-paths-ii](https://github.com/shivamjswlll/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/shivamjswlll/Leetcode/tree/master/0064-minimum-path-sum) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/shivamjswlll/Leetcode/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/shivamjswlll/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0173-binary-search-tree-iterator](https://github.com/shivamjswlll/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/shivamjswlll/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Tree
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/shivamjswlll/Leetcode/tree/master/0042-trapping-rain-water) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/shivamjswlll/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Tree
 |  |
@@ -127,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/shivamjswlll/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/shivamjswlll/Leetcode/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/shivamjswlll/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/shivamjswlll/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/shivamjswlll/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/shivamjswlll/Leetcode/tree/master/0202-happy-number) |
@@ -206,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/shivamjswlll/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/shivamjswlll/Leetcode/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/shivamjswlll/Leetcode/tree/master/0045-jump-game-ii) |
 | [0062-unique-paths](https://github.com/shivamjswlll/Leetcode/tree/master/0062-unique-paths) |
