@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/shivamjswlll/Leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/shivamjswlll/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0143-reorder-list](https://github.com/shivamjswlll/Leetcode/tree/master/0143-reorder-list) |
 | [0173-binary-search-tree-iterator](https://github.com/shivamjswlll/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/shivamjswlll/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Tree
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/shivamjswlll/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/shivamjswlll/Leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/shivamjswlll/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/shivamjswlll/Leetcode/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/shivamjswlll/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/shivamjswlll/Leetcode/tree/master/0202-happy-number) |
 | [0455-assign-cookies](https://github.com/shivamjswlll/Leetcode/tree/master/0455-assign-cookies) |
@@ -356,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/shivamjswlll/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0044-wildcard-matching](https://github.com/shivamjswlll/Leetcode/tree/master/0044-wildcard-matching) |
+| [0143-reorder-list](https://github.com/shivamjswlll/Leetcode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/shivamjswlll/Leetcode/tree/master/0206-reverse-linked-list) |
 ## Shortest Path
 |  |
@@ -419,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/shivamjswlll/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/shivamjswlll/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/shivamjswlll/Leetcode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/shivamjswlll/Leetcode/tree/master/0206-reverse-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
