@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/shivamjswlll/Leetcode/tree/master/0204-count-primes) |
 | [0229-majority-element-ii](https://github.com/shivamjswlll/Leetcode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/shivamjswlll/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0287-find-the-duplicate-number](https://github.com/shivamjswlll/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0304-range-sum-query-2d-immutable](https://github.com/shivamjswlll/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0322-coin-change](https://github.com/shivamjswlll/Leetcode/tree/master/0322-coin-change) |
 | [0403-frog-jump](https://github.com/shivamjswlll/Leetcode/tree/master/0403-frog-jump) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shivamjswlll/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0173-binary-search-tree-iterator](https://github.com/shivamjswlll/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shivamjswlll/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0287-find-the-duplicate-number](https://github.com/shivamjswlll/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0450-delete-node-in-a-bst](https://github.com/shivamjswlll/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shivamjswlll/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/shivamjswlll/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/shivamjswlll/Leetcode/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/shivamjswlll/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/shivamjswlll/Leetcode/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/shivamjswlll/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/shivamjswlll/Leetcode/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/shivamjswlll/Leetcode/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shivamjswlll/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -341,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/shivamjswlll/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [2529-range-product-queries-of-powers](https://github.com/shivamjswlll/Leetcode/tree/master/2529-range-product-queries-of-powers) |
 | [2632-apply-bitwise-operations-to-make-strings-equal](https://github.com/shivamjswlll/Leetcode/tree/master/2632-apply-bitwise-operations-to-make-strings-equal) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/shivamjswlll/Leetcode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
@@ -432,4 +436,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/shivamjswlll/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0287-find-the-duplicate-number](https://github.com/shivamjswlll/Leetcode/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/shivamjswlll/Leetcode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
