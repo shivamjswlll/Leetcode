@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shivamjswlll/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0337-house-robber-iii](https://github.com/shivamjswlll/Leetcode/tree/master/0337-house-robber-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/shivamjswlll/Leetcode/tree/master/0450-delete-node-in-a-bst) |
+| [0572-subtree-of-another-tree](https://github.com/shivamjswlll/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shivamjswlll/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/shivamjswlll/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/shivamjswlll/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shivamjswlll/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0337-house-robber-iii](https://github.com/shivamjswlll/Leetcode/tree/master/0337-house-robber-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/shivamjswlll/Leetcode/tree/master/0450-delete-node-in-a-bst) |
+| [0572-subtree-of-another-tree](https://github.com/shivamjswlll/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shivamjswlll/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/shivamjswlll/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/shivamjswlll/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/shivamjswlll/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shivamjswlll/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0337-house-robber-iii](https://github.com/shivamjswlll/Leetcode/tree/master/0337-house-robber-iii) |
+| [0572-subtree-of-another-tree](https://github.com/shivamjswlll/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shivamjswlll/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0744-network-delay-time](https://github.com/shivamjswlll/Leetcode/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/shivamjswlll/Leetcode/tree/master/0801-is-graph-bipartite) |
@@ -449,4 +452,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/shivamjswlll/Leetcode/tree/master/0287-find-the-duplicate-number) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/shivamjswlll/Leetcode/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/shivamjswlll/Leetcode/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
