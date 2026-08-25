@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0673-number-of-longest-increasing-subsequence](https://github.com/shivamjswlll/Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0746-min-cost-climbing-stairs](https://github.com/shivamjswlll/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0967-minimum-falling-path-sum](https://github.com/shivamjswlll/Leetcode/tree/master/0967-minimum-falling-path-sum) |
+| [0973-k-closest-points-to-origin](https://github.com/shivamjswlll/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1006-vowel-spellchecker](https://github.com/shivamjswlll/Leetcode/tree/master/1006-vowel-spellchecker) |
 | [1014-k-closest-points-to-origin](https://github.com/shivamjswlll/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1046-max-consecutive-ones-iii](https://github.com/shivamjswlll/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0744-network-delay-time](https://github.com/shivamjswlll/Leetcode/tree/master/0744-network-delay-time) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/shivamjswlll/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0973-k-closest-points-to-origin](https://github.com/shivamjswlll/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1014-k-closest-points-to-origin](https://github.com/shivamjswlll/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/shivamjswlll/Leetcode/tree/master/1046-last-stone-weight) |
 | [1127-last-stone-weight](https://github.com/shivamjswlll/Leetcode/tree/master/1127-last-stone-weight) |
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0319-bulb-switcher](https://github.com/shivamjswlll/Leetcode/tree/master/0319-bulb-switcher) |
 | [0804-rotated-digits](https://github.com/shivamjswlll/Leetcode/tree/master/0804-rotated-digits) |
 | [0900-reordered-power-of-2](https://github.com/shivamjswlll/Leetcode/tree/master/0900-reordered-power-of-2) |
+| [0973-k-closest-points-to-origin](https://github.com/shivamjswlll/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1014-k-closest-points-to-origin](https://github.com/shivamjswlll/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/shivamjswlll/Leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/shivamjswlll/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -340,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/shivamjswlll/Leetcode/tree/master/0229-majority-element-ii) |
 | [0455-assign-cookies](https://github.com/shivamjswlll/Leetcode/tree/master/0455-assign-cookies) |
 | [0900-reordered-power-of-2](https://github.com/shivamjswlll/Leetcode/tree/master/0900-reordered-power-of-2) |
+| [0973-k-closest-points-to-origin](https://github.com/shivamjswlll/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1014-k-closest-points-to-origin](https://github.com/shivamjswlll/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1129-longest-string-chain](https://github.com/shivamjswlll/Leetcode/tree/master/1129-longest-string-chain) |
 | [2422-query-kth-smallest-trimmed-number](https://github.com/shivamjswlll/Leetcode/tree/master/2422-query-kth-smallest-trimmed-number) |
@@ -438,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/shivamjswlll/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1014-k-closest-points-to-origin](https://github.com/shivamjswlll/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/shivamjswlll/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Brainteaser
@@ -448,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/shivamjswlll/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1014-k-closest-points-to-origin](https://github.com/shivamjswlll/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [2422-query-kth-smallest-trimmed-number](https://github.com/shivamjswlll/Leetcode/tree/master/2422-query-kth-smallest-trimmed-number) |
 ## Radix Sort
@@ -457,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Quickselect
 |  |
 | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/shivamjswlll/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1014-k-closest-points-to-origin](https://github.com/shivamjswlll/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [2422-query-kth-smallest-trimmed-number](https://github.com/shivamjswlll/Leetcode/tree/master/2422-query-kth-smallest-trimmed-number) |
 ## Topological Sort
@@ -505,4 +512,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/shivamjswlll/Leetcode/tree/master/0051-n-queens) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/shivamjswlll/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
