@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/shivamjswlll/Leetcode/tree/master/0037-sudoku-solver) |
 | [0138-copy-list-with-random-pointer](https://github.com/shivamjswlll/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/shivamjswlll/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/shivamjswlll/Leetcode/tree/master/0146-lru-cache) |
 | [0202-happy-number](https://github.com/shivamjswlll/Leetcode/tree/master/0202-happy-number) |
 | [0229-majority-element-ii](https://github.com/shivamjswlll/Leetcode/tree/master/0229-majority-element-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/shivamjswlll/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/shivamjswlll/Leetcode/tree/master/0146-lru-cache) |
 | [0173-binary-search-tree-iterator](https://github.com/shivamjswlll/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0304-range-sum-query-2d-immutable](https://github.com/shivamjswlll/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/shivamjswlll/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -481,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/shivamjswlll/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/shivamjswlll/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/shivamjswlll/Leetcode/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/shivamjswlll/Leetcode/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/shivamjswlll/Leetcode/tree/master/0206-reverse-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -531,4 +534,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/shivamjswlll/Leetcode/tree/master/0322-coin-change) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/shivamjswlll/Leetcode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
